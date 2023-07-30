@@ -1,0 +1,3 @@
+Write long lorem ipsum to this file for IO Streams
+You are the creator of this file
+This is the best program ever
